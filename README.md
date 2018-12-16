@@ -1,1 +1,1 @@
-# ruby_with-docker
+Go app dockerized
